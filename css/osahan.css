@@ -1,5 +1,5 @@
 /*
-Template Name: VIDOE - Video Streaming Website HTML Template
+Template Name: TicTac - Video Streaming Website HTML Template
 Author: Askbootstrap
 Author URI: https://themeforest.net/user/askbootstrap
 Version: 1.0
